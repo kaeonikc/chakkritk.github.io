@@ -31,7 +31,7 @@ _Italic_
 
 ## Table
 | col1 | col2 |
-| ----------- |
+| ---- | ---- |
 | text 11 | text 12 |
 | text 21 | text 22 |
 
